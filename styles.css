@@ -52,7 +52,8 @@
 }
 
 #flex-section3 .tags ul {
-
+	display: flex;
+	list-style: none;
 }
 
 /* end Flexbox Part 3 */
