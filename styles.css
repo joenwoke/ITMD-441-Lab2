@@ -44,7 +44,10 @@
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
-
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+	justify-content: center;
 }
 
 #flex-section3 .tags ul {
